@@ -26,7 +26,7 @@ nav ul {
     display: flex;
     justify-content: space-between;
 }
-.smogon {
+img.smogon {
     width: 55px;
     height: 30px;
 

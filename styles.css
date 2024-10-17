@@ -12,7 +12,8 @@ header {
     text-align: center;
 
     position: fixed;
-    width: 100%;
+    max-width: 35%;
+    min-width: 100%;
 }
 
 header h1 {
@@ -27,7 +28,7 @@ nav ul {
     justify-content: space-between;
 }
 img.smogon {
-    width: 55px;
+    min-width: 55px;
     height: 30px;
 
     margin: 0%;
@@ -111,7 +112,7 @@ h2 {
 }
 
 img {
-    width: 30%;
+    min-width: 30%;
     height: 35vh;
     display: block;
     margin: 20px auto;
